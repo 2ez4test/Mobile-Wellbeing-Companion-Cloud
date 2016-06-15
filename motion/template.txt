@@ -1,0 +1,17 @@
+@relation test
+
+@attribute accX	                  NUMERIC
+@attribute accY	                  NUMERIC
+@attribute accZ                   NUMERIC
+@attribute bodyAccX	              NUMERIC
+@attribute bodyAccY	              NUMERIC
+@attribute bodyAccZ               NUMERIC
+@attribute gravityX	              NUMERIC
+@attribute gravityY	              NUMERIC
+@attribute gravityZ               NUMERIC
+@attribute gyroX                  NUMERIC
+@attribute gyroY                  NUMERIC
+@attribute gyroZ                  NUMERIC
+@attribute class {1,2,3,4,5}
+
+@data

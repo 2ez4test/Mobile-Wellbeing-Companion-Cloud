@@ -1,0 +1,4 @@
+distribute
+pyserial
+pyusb
+msgpack-python
